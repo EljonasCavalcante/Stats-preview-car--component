@@ -28,6 +28,7 @@ body{
 p{
   font-size: 15px;
   line-height: 1.6;
+  
 }
 
 .container{
@@ -37,12 +38,14 @@ p{
   border-radius: .625rem;
 }
 
-.container .card .picture{
-  background:  url("./images/-header-mobile.jpg");
-  height: 25rem;
-}
 .container .card picture img{
-  border-radius: .625rem;
+  border-radius: 10px 10px 0 0;
+}
+
+
+
+span{
+  color: var(--soft-violet);
 }
 
 .attribution {

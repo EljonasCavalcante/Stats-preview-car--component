@@ -36,7 +36,3 @@ The designs were created to the following widths:
 - Weights: 400
 
 
-    <picture>
-      <source media="(min-width: 768px)" srcset="./images/image-header-desktop.jpg" sizes="">
-      <img src="images/image-header-mobile.jpg" alt="">
-    </picture>
